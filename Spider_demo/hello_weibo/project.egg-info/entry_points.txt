@@ -1,0 +1,3 @@
+[scrapy]
+settings = hello_weibo.settings
+

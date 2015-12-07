@@ -1,0 +1,12 @@
+setup.py
+Baidu_search/__init__.py
+Baidu_search/items.py
+Baidu_search/pipelines.py
+Baidu_search/settings.py
+Baidu_search/spiders/B_search_spider.py
+Baidu_search/spiders/__init__.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

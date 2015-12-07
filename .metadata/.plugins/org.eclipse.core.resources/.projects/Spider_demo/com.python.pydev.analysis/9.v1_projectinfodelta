@@ -1,0 +1,11 @@
+INSTUPBBS.BBS.pipelines
+D:\Work_space\Java\Spider_demo\BBS\BBS\pipelines.py
+INFOS:&&1|1|2|0&&2|3|2|1&&1|4|2|0&&2|5|2|4&&3|6|2|7&&2|3|2|4&&2|8|2|4
+__init__=5
+Mysql_scrapy_pipeline=4
+process_item=3
+BBS.BBS.pipelines=2
+Mysql_scrapy_pipeline.__init__=7
+dbpool=6
+_conditional_insert_=8
+BaiduTiebaPipeline=1
