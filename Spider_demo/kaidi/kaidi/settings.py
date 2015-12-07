@@ -50,5 +50,6 @@ WEBDRIVER_BROWSER = 'PhantomJS' # Or any other from selenium.webdriver
 DOWNLOAD_DELAY=3
 
 LOG_FILE=None
-# LOG_LEVEL='WARNING'
+LOG_LEVEL='WARNING'
 LOG_LEVEL = 'DEBUG'
+
